@@ -1,23 +1,29 @@
-# Olá, eu sou o Luanderson
+# Olá, eu sou o Luanderson | Hi, I'm Luanderson
 
-**Desenvolvedor Full Stack
-** · React, TypeScript e Next.js  
-Projetos com deploy em produção · Osasco, SP · **Disponível para freelas**
+**Desenvolvedor Front-End** · React, TypeScript e Next.js  
+**Front-End Developer** · React, TypeScript & Next.js
+
+Projetos com deploy em produção · Osasco, SP · **Disponível para freelas**  
+Production-ready portfolio projects · Osasco, Brazil · **Open to freelance work**
 
 [![GitHub](https://img.shields.io/badge/GitHub-luandersonlemos-181717?style=flat&logo=github)](https://github.com/luandersonlemos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-luanderson--lemos-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/luanderson-lemos-9a5771230)
 
 ---
 
-## Sobre
+## Sobre | About
 
 Construo interfaces web modernas com foco em UX, performance e código organizado.  
 Meus projetos de portfólio já rodam em produção (Vercel e GitHub Pages).
 
-**Stack principal:** React · TypeScript · Next.js · Vite · Tailwind CSS · Supabase · PWA
+I build modern web interfaces focused on UX, performance, and clean code.  
+My portfolio projects are live in production (Vercel and GitHub Pages).
+
+**Stack:** React · TypeScript · Next.js · Vite · Tailwind CSS · Supabase · PWA
 
 ---
 
-## Projetos em destaque
+## Projetos em destaque | Featured projects
 
 | Projeto | Descrição | Demo |
 |---------|-----------|------|
@@ -36,7 +42,7 @@ Meus projetos de portfólio já rodam em produção (Vercel e GitHub Pages).
 
 ---
 
-## Contato
+## Contato | Contact
 
+- LinkedIn: [linkedin.com/in/luanderson-lemos-9a5771230](https://linkedin.com/in/luanderson-lemos-9a5771230)
 - GitHub: [@luandersonlemos](https://github.com/luandersonlemos)
-- Abra uma issue em qualquer repositório ou me chame por indicação
