@@ -1,6 +1,7 @@
 # Olá, eu sou o Luanderson
 
-**Desenvolvedor Front-End** · React, TypeScript e Next.js  
+**Desenvolvedor Full Stack
+** · React, TypeScript e Next.js  
 Projetos com deploy em produção · Osasco, SP · **Disponível para freelas**
 
 [![GitHub](https://img.shields.io/badge/GitHub-luandersonlemos-181717?style=flat&logo=github)](https://github.com/luandersonlemos)
